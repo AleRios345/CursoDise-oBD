@@ -46,3 +46,4 @@
 ![Modelo Relacional de la Base de Datos Voleibol](./diagramasBD/ModeloRelacionalVolBD.png)
 
 ## Reglas del negocio
+1. Regla 1
